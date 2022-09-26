@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a University of Alberta Electrical Engineering grad, amateur musician, and dabbling photographer. I created this blog in 2022 to document my personal projects for job applications and anybody else who might be interested.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Check out Jekyll Now [here](https://github.com/barryclark/jekyll-now) (the package I used to make the blog).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[evan.r089@gmail.com](mailto:evan.r089@gmail.com)
